@@ -64,7 +64,7 @@ MIDDLEWARE = [
 # ==========================
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
-    "https://appmovilescolar.netlify.app",
+    "https://registroescolar1.netlify.app",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
